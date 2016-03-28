@@ -1,3 +1,3 @@
 DEPRECATED
 ----------
-New configs are [here](https://github.com/jhartshorn/dotfiles)b
+New configs are [here](https://github.com/jhartshorn/dotfiles)
